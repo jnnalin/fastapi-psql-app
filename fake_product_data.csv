@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Audience Focus,Electronics,313.69,803,2.8,3755
+2,Guy Natural,Clothing,175.55,646,3.6,1755
+3,Tonight Late,Electronics,134.22,500,2.2,4603
+4,Second Stop,Clothing,170.46,550,4.9,881
+5,Affect Interesting,Clothing,295.77,258,2.9,1444
+6,Stop Term,Clothing,428.63,627,5.0,2728
+7,Determine Mission,Home & Kitchen,263.07,64,1.8,1835
+8,Enjoy Low,Clothing,407.34,304,2.7,2955
+9,Consumer Everything,Books,71.72,974,1.9,3570
+10,Radio Well,Toys,65.2,106,2.9,900
+11,Inside One,Books,146.76,261,3.2,2780
+12,Reason Five,Toys,379.33,95,3.1,1780
+13,Trip Marriage,Sports,284.44,423,2.0,384
+14,Evening Mr,Toys,156.99,264,2.4,2592
+15,Several Cost,Toys,92.46,518,2.3,1479
+16,Statement Nation,Clothing,238.72,930,2.9,3966
+17,Stock Man,Home & Kitchen,14.41,972,2.7,2100
+18,Today Prove,Sports,469.23,708,4.9,1263
+19,Spend Case,Home & Kitchen,19.56,739,2.6,146
+20,Five Interview,Sports,328.88,577,3.8,2088
+21,Draw Bit,Electronics,407.27,588,2.5,1435
+22,Image Country,Home & Kitchen,141.07,456,3.4,2009
+23,With Whole,Clothing,153.97,530,3.4,231
+24,Again Spring,Electronics,118.92,307,2.0,3666
+25,More Factor,Home & Kitchen,365.11,925,3.3,1749
+26,Shake Out,Electronics,213.75,633,3.6,3550
+27,Road Program,Sports,292.52,120,2.9,4410
+28,Someone Short,Sports,248.23,90,2.0,4974
+29,Know Military,Books,255.12,811,1.5,882
+30,Agreement Draw,Clothing,324.03,135,4.0,480
+31,Usually Charge,Sports,282.16,969,3.5,2048
+32,Step Result,Toys,247.7,573,1.5,3250
+33,Day Must,Home & Kitchen,143.8,657,2.2,4704
+34,Save On,Toys,249.88,552,2.2,1591
+35,Reduce Talk,Toys,246.53,305,4.7,578
+36,Crime Second,Books,148.1,993,2.0,3221
+37,Ahead Present,Clothing,363.94,866,1.1,4380
+38,Sell Name,Toys,373.73,164,4.2,2588
+39,Suggest Find,Clothing,191.56,279,2.1,4294
+40,Many Position,Clothing,390.12,363,3.2,2499
+41,Benefit Dinner,Toys,366.3,706,2.7,3561
+42,Mr Value,Home & Kitchen,358.49,23,1.7,4192
+43,Determine Everything,Toys,207.02,795,3.5,1515
+44,Little List,Electronics,166.57,986,4.5,1191
+45,Player True,Books,191.61,737,3.6,3391
+46,Minute Like,Clothing,495.58,261,1.1,2369
+47,Forget Hit,Clothing,408.94,203,1.9,3440
+48,Job Beyond,Home & Kitchen,296.78,48,3.4,163
+49,Performance During,Toys,489.83,142,1.0,4143
+50,Child Matter,Home & Kitchen,378.64,958,4.4,2478
+51,Minute Dog,Clothing,423.11,805,3.8,1768
+52,Little Hold,Toys,282.7,662,2.6,1302
+53,Get Buy,Clothing,19.52,870,4.9,2442
+54,Evening Address,Clothing,157.54,6,4.1,73
+55,Hold Even,Books,297.68,961,3.8,1323
+56,Enough Size,Electronics,269.99,849,3.3,4211
+57,Lose Team,Clothing,234.7,219,3.0,1983
+58,Ago Nearly,Sports,87.79,86,4.8,1935
+59,Economic Blood,Sports,12.75,212,4.5,652
+60,Art A,Home & Kitchen,492.61,574,3.4,1982
+61,Human Happen,Sports,59.85,855,2.8,2674
+62,Green Suggest,Electronics,233.53,613,4.9,3465
+63,Share Understand,Home & Kitchen,269.04,209,3.2,637
+64,Police Future,Sports,224.09,604,4.8,4546
+65,Such Student,Toys,41.71,240,2.3,3618
+66,Firm Side,Toys,53.93,668,1.1,2934
+67,Worker Wide,Toys,107.52,203,2.0,3464
+68,South Possible,Home & Kitchen,200.19,644,1.7,2676
+69,Soldier Letter,Clothing,124.64,118,4.6,4873
+70,He Husband,Clothing,395.75,154,2.9,2149
+71,Short Someone,Books,220.72,980,3.1,2455
+72,Congress Total,Sports,155.0,976,3.4,551
+73,Apply Land,Clothing,317.0,927,4.3,968
+74,Course Current,Clothing,19.2,403,1.1,268
+75,Blue Environmental,Toys,454.17,313,4.7,2544
+76,Away Marriage,Home & Kitchen,142.98,108,5.0,706
+77,Remain Continue,Clothing,428.89,31,2.0,1181
+78,Magazine Senior,Home & Kitchen,330.35,62,4.5,4098
+79,Control Hope,Electronics,37.5,725,4.7,571
+80,Base Attention,Books,49.39,598,4.7,1630
+81,Majority Want,Clothing,319.64,269,3.9,3912
+82,Author Can,Clothing,404.82,340,2.2,458
+83,Manager List,Books,398.72,622,3.8,2692
+84,Church Agreement,Clothing,121.95,308,3.7,1241
+85,Top Cup,Books,250.18,47,1.8,3784
+86,Say Certain,Toys,139.53,101,2.0,3741
+87,Energy Also,Books,5.87,972,3.9,4198
+88,No Sometimes,Clothing,349.45,828,3.5,3266
+89,Bar Also,Toys,91.66,341,3.1,3249
+90,Family Tell,Books,362.7,705,3.1,4674
+91,Southern Human,Electronics,296.73,821,2.1,641
+92,Room Sell,Books,226.5,186,2.4,4655
+93,Purpose Assume,Clothing,219.67,416,2.7,1316
+94,When Development,Electronics,216.64,416,2.0,3984
+95,Newspaper Their,Toys,314.71,377,4.5,4207
+96,Above Argue,Clothing,253.16,830,3.0,1388
+97,Early Fast,Sports,423.47,819,1.7,230
+98,Director Turn,Electronics,321.63,689,2.5,2108
+99,With Particular,Home & Kitchen,309.8,580,2.0,3317
+100,Service Hold,Books,451.46,327,2.8,4814
+101,Civil Side,Sports,255.81,451,3.4,4524
+102,Relationship Job,Sports,194.44,744,2.8,1126
+103,Heavy Machine,Books,179.93,723,3.6,1656
+104,Despite Paper,Books,41.08,86,5.0,98
+105,Assume Chance,Electronics,111.15,621,1.1,223
+106,Else Floor,Clothing,407.25,66,2.5,1120
+107,Health Well,Clothing,232.35,810,2.2,3494
+108,Cell Share,Books,224.22,421,4.2,816
+109,Cup Six,Toys,105.95,626,2.6,2771
+110,Left Prove,Home & Kitchen,76.12,138,2.0,1092
+111,Every Ball,Home & Kitchen,333.64,489,2.8,4401
+112,Act Maybe,Electronics,248.73,561,1.6,2083
+113,Usually Partner,Books,393.2,794,1.3,2460
+114,Off Strong,Books,393.25,894,4.5,4074
+115,Market Coach,Clothing,267.97,513,2.2,1340
+116,Anything Choice,Sports,254.45,448,3.6,1139
+117,Never Question,Sports,152.83,857,2.9,3519
+118,Either Every,Toys,10.01,570,4.4,1624
+119,Main Join,Books,32.23,19,3.6,3011
+120,Position Simple,Books,383.39,292,3.8,2327
+121,Least Wait,Electronics,227.02,683,2.4,2125
+122,Require Thought,Sports,321.31,907,3.5,3342
+123,Employee Nature,Clothing,240.13,909,3.1,414
+124,Chair Staff,Toys,341.84,467,2.1,4823
+125,Face Gas,Home & Kitchen,30.93,671,2.8,1011
+126,Defense Technology,Electronics,228.13,108,4.5,631
+127,Security Spring,Books,191.89,767,2.9,3243
+128,Each Sea,Electronics,474.41,632,2.9,3262
+129,Check Leg,Clothing,417.97,470,3.4,4552
+130,Population Which,Books,449.37,458,1.3,1959
+131,Difficult Old,Clothing,467.92,703,4.1,1953
+132,Couple Sound,Electronics,467.64,104,2.4,19
+133,Space Seat,Home & Kitchen,219.26,303,2.2,895
+134,Daughter Second,Clothing,300.38,718,3.8,4944
+135,Thought Civil,Electronics,208.12,420,2.6,3911
+136,Friend Various,Toys,37.22,186,3.9,4143
+137,His Process,Electronics,27.64,848,3.1,2019
+138,Lot Should,Electronics,498.72,496,2.0,680
+139,Consumer Professor,Electronics,115.29,822,2.9,4076
+140,Same Wall,Electronics,95.1,514,3.5,2170
+141,Book Me,Clothing,237.26,109,3.7,1469
+142,Here Mother,Clothing,168.33,695,1.7,2392
+143,Listen If,Books,38.12,467,3.5,880
+144,President Game,Sports,356.42,773,1.8,1450
+145,Drug Customer,Home & Kitchen,55.33,669,3.5,4580
+146,Out Quickly,Clothing,375.4,540,3.4,1537
+147,Congress Director,Sports,76.26,36,1.5,4296
+148,Color Night,Books,134.01,649,1.5,3016
+149,Rather Pull,Home & Kitchen,325.83,15,2.8,563
+150,Eight Tree,Home & Kitchen,157.23,282,2.5,4080
+151,For Lead,Toys,174.25,39,3.1,2256
+152,Newspaper Skill,Sports,151.37,804,4.5,4297
+153,At Debate,Electronics,71.28,587,2.7,999
+154,Somebody Role,Books,91.69,819,2.8,2256
+155,Protect Early,Sports,266.49,876,3.5,440
+156,Standard Short,Home & Kitchen,103.11,430,4.0,2446
+157,Admit But,Sports,396.9,306,4.3,4322
+158,Color Purpose,Books,201.2,485,2.6,2325
+159,Wide Best,Toys,424.34,58,2.6,3048
+160,On Relate,Sports,441.06,859,1.8,736
+161,Letter President,Toys,73.4,48,1.1,3905
+162,White Memory,Toys,140.95,730,1.9,2756
+163,Military Reduce,Sports,277.57,422,1.3,4211
+164,Too Nice,Toys,389.91,91,1.9,209
+165,Shake Feeling,Home & Kitchen,194.72,867,1.9,2043
+166,Thousand Enjoy,Electronics,312.5,846,2.9,4502
+167,Firm Than,Home & Kitchen,196.63,904,2.2,14
+168,Almost Dark,Electronics,379.34,697,1.8,1293
+169,Avoid We,Books,63.08,168,4.9,3288
+170,Until Today,Electronics,429.59,228,5.0,970
+171,Hot Success,Home & Kitchen,355.9,542,2.8,1610
+172,Watch Artist,Clothing,299.42,360,3.9,3217
+173,Wind Field,Clothing,263.18,603,1.3,1478
+174,Cut Also,Clothing,315.3,564,1.1,3514
+175,Cell Line,Toys,486.64,904,1.9,3632
+176,Nice Pick,Toys,306.78,708,3.0,790
+177,Follow Someone,Home & Kitchen,203.38,448,2.9,4212
+178,Despite Paper,Sports,378.55,403,1.8,2156
+179,Top Over,Sports,139.04,738,4.2,3835
+180,Turn Experience,Clothing,73.71,174,2.2,3825
+181,Sit Hundred,Clothing,79.6,786,2.3,4998
+182,Other War,Electronics,386.38,870,2.5,3137
+183,Future Opportunity,Electronics,157.82,693,2.9,3348
+184,Million Maybe,Sports,109.96,330,1.4,1828
+185,Environment Create,Books,456.94,580,4.5,750
+186,Begin Receive,Sports,376.9,692,1.3,1564
+187,Order Imagine,Clothing,57.46,354,4.4,127
+188,Whole Fish,Clothing,446.67,226,2.5,3696
+189,Member Tend,Books,353.88,430,1.4,4942
+190,Read Home,Toys,56.49,705,4.8,1202
+191,Hospital Thing,Electronics,93.6,331,2.9,105
+192,Financial International,Books,470.07,776,3.7,2727
+193,A Size,Home & Kitchen,344.2,103,1.0,3453
+194,Suffer They,Books,253.51,602,4.7,781
+195,Draw Test,Home & Kitchen,204.25,368,4.9,3547
+196,Seek Age,Sports,445.08,303,4.4,4305
+197,Detail Generation,Clothing,361.63,653,1.3,1719
+198,Hope Why,Electronics,81.78,116,3.3,3514
+199,Forward Choice,Clothing,207.97,200,1.9,2994
+200,Wide Would,Books,60.03,600,3.4,2837
+201,Single Environment,Clothing,467.32,202,3.6,333
+202,Care Always,Electronics,12.39,832,2.6,1776
+203,Why Employee,Toys,473.19,305,3.1,9
+204,Project Body,Home & Kitchen,238.25,592,3.2,4257
+205,Challenge Inside,Electronics,467.16,83,4.3,4095
+206,Point Physical,Toys,43.21,326,3.7,3050
+207,Race May,Toys,38.17,942,4.6,2644
+208,Able Some,Sports,483.74,895,3.7,3356
+209,You Series,Sports,274.17,154,4.2,3890
+210,Keep Wall,Electronics,214.95,49,2.1,4438
+211,Sort College,Electronics,231.06,707,3.7,301
+212,Long Activity,Home & Kitchen,143.4,407,5.0,4653
+213,Scene Both,Electronics,69.78,36,2.9,4527
+214,Beautiful Everybody,Clothing,210.46,978,1.3,1763
+215,International Among,Books,26.61,381,3.8,3192
+216,Case Find,Home & Kitchen,344.36,501,3.0,2236
+217,Include Kitchen,Books,495.0,362,4.8,2773
+218,Mission Describe,Books,407.09,948,2.1,205
+219,Exist Subject,Home & Kitchen,106.62,416,4.2,36
+220,Even Industry,Electronics,457.51,243,2.5,1680
+221,Lawyer Whose,Electronics,74.71,280,4.7,579
+222,Also Our,Toys,156.51,52,2.4,744
+223,Such Method,Home & Kitchen,458.35,175,4.5,2345
+224,Rock Couple,Toys,448.9,847,1.1,4557
+225,Question Behavior,Clothing,8.52,707,2.2,3065
+226,Past Nature,Books,325.8,871,1.1,180
+227,Movement Ball,Toys,354.01,255,4.6,3663
+228,School Agent,Books,459.44,134,1.1,765
+229,Future Writer,Books,396.21,445,4.4,4596
+230,Those Out,Sports,227.47,789,1.3,646
+231,Usually Talk,Clothing,49.41,87,2.2,979
+232,Smile Expect,Clothing,315.87,617,4.3,713
+233,Simple Feel,Home & Kitchen,498.13,163,2.4,2547
+234,Administration Bad,Sports,250.16,971,2.5,4628
+235,Article Truth,Toys,317.75,626,1.2,3881
+236,Federal Difference,Home & Kitchen,312.05,935,2.9,2319
+237,Act Without,Sports,210.16,639,4.8,1645
+238,Run Woman,Sports,467.96,113,4.4,940
+239,President Another,Books,61.1,612,1.4,4144
+240,Rise Name,Books,345.42,505,3.9,3533
+241,Information Quality,Clothing,158.73,504,3.0,2419
+242,Baby Though,Electronics,285.6,602,3.7,425
+243,Human Better,Toys,287.88,677,1.6,4917
+244,Instead Trade,Home & Kitchen,295.02,761,1.7,674
+245,Perform Treat,Electronics,270.93,214,1.3,4454
+246,Food Material,Sports,149.38,934,3.4,1114
+247,Art Little,Electronics,103.42,599,2.2,4267
+248,Office Nor,Home & Kitchen,273.79,450,1.2,766
+249,Property Garden,Books,15.8,897,3.9,3605
+250,Happen Enter,Clothing,77.99,892,4.5,857
+251,Parent Night,Electronics,425.38,779,1.7,2372
+252,Evening Side,Toys,293.36,105,2.8,920
+253,Region Land,Clothing,333.29,876,2.0,4422
+254,Prevent Investment,Electronics,162.2,187,3.2,4057
+255,Market Reveal,Clothing,456.73,977,3.6,4049
+256,Find Kind,Clothing,205.12,963,3.8,100
+257,Seek These,Home & Kitchen,407.53,435,3.8,709
+258,Modern Right,Clothing,154.76,717,1.3,4721
+259,Wear Hear,Clothing,355.11,239,3.7,2227
+260,Despite Important,Books,193.7,22,3.6,2976
+261,Degree Option,Toys,443.1,193,3.1,2118
+262,Language Husband,Electronics,259.36,499,1.4,3196
+263,Officer Water,Books,418.08,201,3.8,2228
+264,How Study,Home & Kitchen,392.64,593,3.3,2205
+265,Help Across,Electronics,54.32,376,1.8,4121
+266,Medical Range,Home & Kitchen,15.16,207,4.9,4380
+267,Nature Pick,Electronics,167.89,179,2.5,3236
+268,Similar Another,Sports,354.03,273,3.2,1016
+269,Institution Edge,Home & Kitchen,380.16,285,1.7,769
+270,Easy Two,Electronics,85.77,593,1.4,2259
+271,Wear Happy,Home & Kitchen,469.52,278,2.6,4392
+272,Phone Final,Sports,306.1,925,2.9,1358
+273,Water Church,Electronics,336.44,694,1.9,1461
+274,Project Interview,Toys,262.15,130,3.2,4755
+275,Now Song,Electronics,104.94,459,3.4,2962
+276,Call Heavy,Sports,187.4,95,2.2,2214
+277,Item Analysis,Clothing,485.14,883,4.2,1027
+278,Political Accept,Books,293.19,408,3.4,291
+279,Pass Produce,Electronics,333.98,767,1.9,1434
+280,Measure Rather,Clothing,327.54,591,1.7,346
+281,Fund I,Sports,490.88,511,3.8,2572
+282,Fight Successful,Books,249.72,387,3.1,807
+283,Former Edge,Home & Kitchen,445.72,528,2.8,1244
+284,Subject Me,Toys,141.88,795,1.5,3264
+285,Word Carry,Electronics,200.35,375,1.2,313
+286,For Job,Toys,394.74,237,1.2,3414
+287,Maintain Process,Clothing,246.13,212,4.9,2144
+288,Trouble Similar,Sports,147.81,729,3.4,984
+289,Force House,Books,182.95,282,3.9,4162
+290,Loss Security,Toys,71.58,58,1.4,871
+291,Program Character,Electronics,174.99,655,2.1,4789
+292,Population Bed,Electronics,356.6,390,4.1,3570
+293,Resource Seat,Books,8.2,340,2.2,889
+294,Even Lawyer,Books,358.05,100,3.1,2355
+295,Federal With,Toys,414.27,245,1.8,201
+296,Drive Direction,Clothing,224.93,534,3.2,2610
+297,Report Contain,Sports,69.51,519,3.0,1714
+298,Government Those,Books,167.15,440,1.0,4094
+299,Chance Expect,Electronics,157.4,207,4.8,497
+300,Cost Off,Toys,154.21,976,1.4,3599
+301,Begin Author,Sports,271.7,126,1.6,2061
+302,Member Receive,Toys,115.07,236,3.7,4048
+303,Common Energy,Books,9.76,456,1.5,219
+304,Move National,Books,348.63,977,3.6,3779
+305,Place Area,Home & Kitchen,132.65,901,1.1,4550
+306,Beyond Support,Home & Kitchen,375.46,696,2.3,597
+307,Matter It,Sports,25.08,587,2.2,1071
+308,Company Quite,Clothing,372.9,390,1.7,3270
+309,School Board,Home & Kitchen,477.27,637,2.1,1033
+310,Out Possible,Sports,348.63,994,2.4,2594
+311,Single Break,Electronics,484.81,112,2.4,1909
+312,Join North,Electronics,366.74,46,4.2,3217
+313,Suddenly Program,Home & Kitchen,462.25,790,4.1,4460
+314,Purpose Poor,Electronics,346.0,473,4.0,2655
+315,Somebody Agency,Sports,298.8,925,2.7,3443
+316,Deal Every,Sports,93.16,119,3.5,3927
+317,Capital Debate,Clothing,261.79,254,3.5,2322
+318,No Responsibility,Clothing,273.24,498,2.2,617
+319,Partner Always,Electronics,393.54,854,2.0,1818
+320,Move Federal,Toys,15.7,76,2.1,380
+321,My Senior,Books,388.11,207,3.0,517
+322,Customer Trial,Books,219.97,394,1.2,4213
+323,Risk Public,Toys,75.12,260,2.5,2333
+324,Brother And,Toys,184.97,715,3.4,10
+325,Two Particularly,Toys,67.37,632,4.2,1147
+326,Cut In,Clothing,247.29,832,3.3,3819
+327,War Whether,Books,405.0,144,4.6,111
+328,These Quality,Electronics,432.69,765,4.3,1374
+329,Box Student,Electronics,318.7,51,2.6,3373
+330,However Business,Electronics,174.84,646,4.7,1927
+331,Fast Reach,Toys,380.19,268,3.0,649
+332,Sometimes Right,Toys,408.26,403,3.3,3079
+333,Tax Voice,Electronics,348.22,852,2.5,1239
+334,Bring Military,Home & Kitchen,46.97,115,2.6,1163
+335,Yes Trip,Sports,111.06,806,1.2,2859
+336,Middle Card,Clothing,326.02,26,3.4,4429
+337,Five Large,Home & Kitchen,402.62,348,2.6,681
+338,Strategy Threat,Electronics,277.13,673,4.9,4336
+339,Vote A,Toys,354.56,610,2.2,582
+340,Pay Color,Clothing,290.32,687,4.0,3992
+341,Worry Name,Clothing,329.8,480,4.0,4685
+342,Our Teacher,Home & Kitchen,292.03,609,3.6,1936
+343,Bit Hot,Toys,487.31,115,1.9,2548
+344,Own Each,Toys,451.54,306,4.1,12
+345,Usually Reduce,Books,55.96,224,3.1,692
+346,Message Country,Electronics,63.31,896,3.3,1617
+347,Station House,Clothing,44.2,22,1.2,2468
+348,Smile Candidate,Electronics,436.07,420,1.5,4734
+349,Election Although,Home & Kitchen,118.53,83,2.1,4875
+350,Garden Make,Toys,145.94,379,3.8,358
+351,Including Speak,Books,449.99,141,3.2,511
+352,Account Want,Toys,320.76,953,2.1,320
+353,The Board,Toys,27.7,901,2.9,109
+354,Factor Risk,Toys,295.13,526,1.5,4199
+355,Wind School,Electronics,104.77,979,1.2,148
+356,Another Focus,Toys,207.32,761,3.4,1369
+357,College Light,Books,292.4,984,4.0,1442
+358,Discuss Although,Books,396.1,681,1.5,68
+359,Pressure Event,Books,228.44,898,1.5,2321
+360,Home Nice,Toys,259.05,745,1.5,4582
+361,Majority Piece,Sports,29.82,428,1.9,2300
+362,Debate Short,Books,82.98,215,4.2,1855
+363,Business Need,Home & Kitchen,317.12,305,3.8,317
+364,Else Research,Electronics,253.71,662,2.0,4483
+365,Serious Party,Books,246.95,988,2.4,2387
+366,Senior Sell,Home & Kitchen,254.72,294,4.8,4961
+367,East Blue,Toys,329.53,221,2.9,2839
+368,Author Blood,Clothing,499.07,190,4.6,45
+369,Federal Guy,Clothing,51.61,959,2.1,1196
+370,Cold Meet,Toys,26.1,802,3.1,2123
+371,Woman Figure,Books,457.62,843,2.8,4991
+372,Ever Help,Books,289.12,552,2.6,3491
+373,Oil Get,Sports,109.22,226,4.8,1859
+374,Want Experience,Clothing,414.9,41,3.0,2494
+375,Might Side,Home & Kitchen,244.27,782,4.0,3564
+376,Two Station,Books,455.88,699,2.8,2765
+377,Have Near,Books,380.98,900,3.0,2188
+378,Home Stop,Books,67.19,392,4.3,1702
+379,Include Must,Books,79.12,553,3.3,4131
+380,Itself Around,Electronics,190.44,397,2.3,2161
+381,Risk Avoid,Books,307.46,733,1.7,3842
+382,Green Firm,Home & Kitchen,184.41,670,2.0,692
+383,Present Recent,Toys,332.11,974,2.9,1846
+384,Magazine Occur,Home & Kitchen,366.25,879,2.7,4652
+385,Yet Certainly,Toys,68.44,715,1.3,4514
+386,Expert Daughter,Clothing,476.2,577,2.8,4177
+387,Effect Language,Sports,163.34,396,3.0,780
+388,Rise Data,Toys,166.33,960,4.0,2440
+389,If Whatever,Clothing,8.38,956,2.8,2504
+390,Argue At,Sports,367.94,96,2.2,571
+391,Level Inside,Sports,218.96,40,2.2,4488
+392,Everybody If,Toys,141.02,561,5.0,413
+393,Win By,Sports,139.62,566,3.6,4194
+394,Bar Sound,Electronics,379.98,742,4.4,771
+395,Result Write,Books,485.72,306,2.3,951
+396,Five Movement,Home & Kitchen,209.15,452,4.7,1837
+397,Magazine Most,Home & Kitchen,227.69,434,4.6,3438
+398,View Garden,Books,205.13,498,3.9,663
+399,Painting Responsibility,Books,304.14,572,2.7,4163
+400,Pull Cause,Clothing,313.8,865,4.4,1910
+401,Might Here,Home & Kitchen,363.29,764,1.8,903
+402,Form Per,Sports,30.18,571,4.1,2228
+403,Your Computer,Electronics,173.53,845,4.8,2640
+404,Nor Both,Toys,93.25,390,1.7,3298
+405,Old Model,Toys,46.05,123,3.4,4940
+406,Set Process,Toys,287.62,850,4.4,4799
+407,Travel Area,Clothing,247.66,866,4.6,2662
+408,Worry Report,Sports,401.86,703,4.0,551
+409,House Century,Toys,204.93,787,4.7,1733
+410,Difference Fund,Home & Kitchen,360.95,792,4.6,100
+411,Value Surface,Home & Kitchen,252.45,841,1.8,2367
+412,Student During,Home & Kitchen,9.72,262,3.3,3792
+413,Everybody Coach,Toys,40.64,430,4.4,1378
+414,Society Big,Electronics,246.18,470,3.6,3543
+415,Camera Response,Books,344.01,463,3.2,4639
+416,The Thought,Books,46.73,902,2.9,3369
+417,What Visit,Books,147.78,786,4.8,1695
+418,Country Continue,Clothing,36.71,688,1.4,1211
+419,Couple Order,Clothing,255.43,586,2.5,3148
+420,Cell Ten,Books,399.82,421,4.5,1901
+421,Firm Message,Sports,157.72,110,2.3,3940
+422,Operation Meeting,Books,271.7,693,3.4,187
+423,Off Bill,Electronics,38.99,441,3.4,3071
+424,Number Into,Toys,428.66,580,3.0,338
+425,Lawyer Cut,Toys,155.41,263,3.2,2791
+426,Lead Time,Sports,398.85,743,2.9,609
+427,Hotel Around,Electronics,147.97,871,4.4,885
+428,Check Talk,Home & Kitchen,233.83,691,2.6,1483
+429,Help Skin,Toys,107.17,408,4.5,3810
+430,Option Effect,Books,53.4,589,1.1,3686
+431,Say Wide,Electronics,317.92,878,4.8,3152
+432,Point Leader,Toys,425.7,892,1.9,213
+433,Compare Throughout,Toys,174.7,526,5.0,3720
+434,Face Knowledge,Books,280.74,717,4.7,4203
+435,Mean Conference,Home & Kitchen,411.19,235,1.0,124
+436,Happy Various,Electronics,181.89,858,1.7,1173
+437,Their Present,Electronics,430.74,192,3.6,667
+438,Budget Plant,Toys,37.4,953,3.6,3809
+439,Thought Open,Electronics,326.62,129,2.8,1551
+440,Plan Enter,Electronics,89.75,951,4.0,906
+441,Western Speech,Books,62.18,917,4.2,964
+442,Best Page,Toys,348.14,422,4.3,24
+443,Address Step,Home & Kitchen,167.01,346,2.4,574
+444,Government Certainly,Home & Kitchen,175.9,365,4.8,2711
+445,Wide What,Toys,248.55,745,4.6,3427
+446,Physical Bring,Toys,192.96,342,4.2,1928
+447,Wife Wide,Sports,161.29,805,2.7,966
+448,Way Simple,Electronics,153.95,445,1.7,2934
+449,Point Pass,Toys,323.04,463,1.6,4472
+450,Improve Agreement,Sports,426.35,194,1.3,994
+451,Edge System,Toys,163.48,567,1.7,406
+452,Form Chair,Books,452.83,846,2.0,3895
+453,Follow Probably,Home & Kitchen,390.79,680,1.0,4631
+454,Wrong Sit,Toys,432.99,845,4.9,1826
+455,Ten Condition,Electronics,244.03,125,3.4,3467
+456,Whole Water,Clothing,487.58,309,2.3,878
+457,Low Only,Sports,73.58,781,3.5,2357
+458,Field Center,Clothing,406.79,226,2.1,2970
+459,Foot Which,Toys,134.76,748,4.9,1949
+460,Few Goal,Sports,61.16,997,4.5,4507
+461,Cold Include,Books,125.68,686,1.4,2455
+462,Maybe Consider,Sports,70.06,257,3.6,3697
+463,Blood Pick,Clothing,441.74,845,2.4,2595
+464,Truth Under,Home & Kitchen,255.28,426,2.5,3711
+465,Beyond Material,Books,198.6,758,4.8,3505
+466,Eight Put,Books,171.62,10,4.7,1776
+467,Visit Second,Home & Kitchen,66.26,18,3.2,75
+468,Policy Among,Home & Kitchen,112.26,148,2.6,1307
+469,Purpose Such,Sports,14.68,359,3.0,3745
+470,Suddenly Toward,Electronics,379.06,95,4.8,2063
+471,Fight Choose,Sports,387.61,303,3.2,271
+472,Movie Theory,Home & Kitchen,497.23,526,1.3,4576
+473,Many Long,Electronics,431.29,825,3.2,3951
+474,Somebody Likely,Electronics,48.51,120,1.2,1243
+475,Perform Institution,Electronics,99.69,828,4.6,1549
+476,Join Care,Electronics,423.27,271,1.9,19
+477,However Throughout,Electronics,65.9,437,3.2,1291
+478,Population Interesting,Sports,206.08,462,2.8,2831
+479,Sing Defense,Sports,231.71,167,1.1,2176
+480,Give Cell,Home & Kitchen,94.26,523,2.7,484
+481,Game Well,Electronics,339.79,173,4.6,1517
+482,Community Prove,Electronics,485.81,868,1.2,873
+483,Position Position,Electronics,132.22,393,3.6,3347
+484,Both Ask,Toys,305.1,790,1.5,4199
+485,Single Garden,Toys,478.07,742,1.4,1263
+486,Professional Race,Electronics,229.82,590,4.6,2104
+487,No Order,Clothing,276.58,386,1.9,432
+488,Draw Fish,Electronics,493.67,412,3.5,4880
+489,Ready It,Toys,388.93,562,3.3,1462
+490,Anything Professional,Clothing,6.29,194,2.5,2622
+491,Especially Yard,Sports,405.61,931,2.9,2948
+492,Live Back,Toys,400.29,206,1.1,1279
+493,Clear Prove,Books,18.95,593,4.0,4582
+494,Ever Discover,Home & Kitchen,270.2,89,3.5,4942
+495,Challenge Main,Toys,109.04,22,2.5,846
+496,Whether Even,Toys,126.29,86,1.2,1402
+497,Commercial Many,Books,331.45,643,2.3,3081
+498,School More,Electronics,345.47,659,4.2,2793
+499,Team School,Electronics,411.7,695,2.8,3532
+500,Discover Floor,Home & Kitchen,90.16,358,2.3,1262
+501,Story Thus,Books,247.11,525,2.0,3182
+502,Produce Where,Toys,457.59,772,3.0,3302
+503,Fight Expert,Clothing,53.9,775,1.8,1028
+504,Significant Group,Clothing,448.34,437,2.6,1427
+505,Pull Should,Home & Kitchen,354.01,165,2.5,2348
+506,Study Stock,Sports,54.99,306,4.5,398
+507,Watch Across,Sports,227.97,37,3.4,1037
+508,Budget Crime,Home & Kitchen,132.08,104,2.2,2110
+509,Require Involve,Sports,472.0,242,3.1,1178
+510,Career Billion,Clothing,64.52,648,3.7,4288
+511,Establish Not,Sports,349.72,268,4.3,1862
+512,Range Around,Books,378.25,853,3.7,203
+513,Number Serious,Electronics,189.13,115,2.8,523
+514,Spend Else,Clothing,296.4,327,3.4,521
+515,Paper Oil,Sports,202.87,222,4.1,4533
+516,Tell Ever,Toys,349.89,628,1.1,2379
+517,Important Pay,Toys,422.52,419,3.4,3780
+518,Discussion Story,Home & Kitchen,477.99,462,1.3,287
+519,North Station,Home & Kitchen,483.45,30,4.3,3250
+520,Interview Left,Clothing,23.73,509,3.6,4363
+521,Cost Community,Sports,452.66,498,2.2,204
+522,May Structure,Home & Kitchen,41.72,94,2.9,4208
+523,Parent National,Toys,65.59,357,1.9,2583
+524,Voice Book,Home & Kitchen,464.38,217,2.0,1012
+525,However Message,Clothing,27.57,243,2.2,2020
+526,Continue Clearly,Electronics,191.35,974,4.1,4395
+527,Individual Guy,Clothing,493.68,751,1.8,67
+528,Left Take,Books,22.48,568,3.9,4195
+529,School Rise,Home & Kitchen,358.09,110,3.1,2192
+530,Analysis Age,Home & Kitchen,192.64,712,1.3,218
+531,Car Much,Home & Kitchen,358.93,271,3.6,3107
+532,Upon Plan,Sports,87.77,725,1.2,3927
+533,Later Five,Books,76.88,683,3.9,2493
+534,Expert They,Sports,419.55,23,3.2,4865
+535,Interest Environment,Home & Kitchen,120.66,125,2.1,2874
+536,Speech Work,Clothing,304.63,539,3.5,4074
+537,Group Majority,Toys,253.39,376,3.2,951
+538,Stage Not,Toys,479.47,212,1.8,3633
+539,House Skin,Home & Kitchen,42.5,327,4.8,802
+540,Lose Would,Electronics,30.74,79,1.1,4243
+541,Allow Cell,Toys,307.68,865,4.3,3548
+542,Door Power,Sports,70.13,640,4.6,3127
+543,Security List,Books,379.11,174,2.9,603
+544,Particular Activity,Home & Kitchen,400.88,605,4.0,629
+545,Such Cost,Clothing,375.89,534,2.4,2986
+546,Realize Run,Sports,239.03,306,1.4,155
+547,Peace Against,Books,94.12,162,4.6,1162
+548,Trade Quality,Sports,497.72,968,2.8,1515
+549,Information Have,Sports,237.55,217,4.3,4798
+550,Expect Water,Toys,219.53,546,4.8,3812
+551,Stop Indicate,Electronics,332.49,10,2.0,326
+552,Leave Book,Toys,220.88,548,4.2,280
+553,Agreement Ahead,Toys,263.47,688,2.1,2824
+554,Song Peace,Home & Kitchen,201.54,539,1.4,1234
+555,Machine Child,Electronics,467.57,264,4.7,3888
+556,Career Pressure,Clothing,147.06,100,3.5,973
+557,Paper Herself,Electronics,305.53,521,4.7,1871
+558,Pretty Save,Sports,30.93,876,4.2,2792
+559,We Young,Clothing,80.66,131,4.2,4764
+560,Else Fear,Home & Kitchen,302.26,266,3.9,1038
+561,Maintain Model,Toys,416.66,82,4.7,1950
+562,Ready Network,Electronics,320.53,671,2.9,733
+563,Opportunity Meeting,Clothing,402.61,310,4.7,3235
+564,Few Never,Clothing,339.56,231,4.8,49
+565,Young Professional,Home & Kitchen,67.46,279,4.1,2457
+566,Administration Quickly,Electronics,159.65,198,1.6,2403
+567,Entire Light,Toys,472.77,334,2.4,4838
+568,Hundred Money,Clothing,20.67,141,1.8,821
+569,Generation Way,Clothing,401.91,495,2.4,37
+570,Opportunity Upon,Home & Kitchen,274.2,155,3.1,2576
+571,Prove Under,Clothing,115.48,227,2.0,298
+572,Take Program,Clothing,182.5,232,4.4,4114
+573,Ever Energy,Electronics,162.59,456,2.4,665
+574,Laugh Finally,Home & Kitchen,214.59,466,2.2,616
+575,Adult Join,Home & Kitchen,475.99,204,3.0,4808
+576,Kind Outside,Books,89.08,930,3.0,2541
+577,Somebody Voice,Electronics,70.34,492,3.6,638
+578,Half Less,Home & Kitchen,81.43,867,4.9,4993
+579,Well One,Clothing,82.42,530,2.4,4865
+580,Hot Near,Toys,414.87,339,4.8,2052
+581,To Guy,Clothing,449.8,625,4.8,765
+582,Live Necessary,Sports,291.27,702,2.0,4702
+583,Develop Every,Home & Kitchen,399.5,961,4.2,4112
+584,Own Effect,Sports,52.85,852,1.8,1274
+585,Team Become,Clothing,243.36,32,2.6,899
+586,Field Whether,Sports,490.26,957,4.4,3750
+587,She Sell,Toys,132.72,289,2.5,146
+588,Act Move,Electronics,413.74,14,2.5,1914
+589,Mouth Smile,Electronics,22.04,883,4.3,4883
+590,Ready Son,Home & Kitchen,218.6,838,2.7,141
+591,Across Some,Electronics,389.25,660,3.8,4880
+592,Red Lot,Home & Kitchen,287.03,958,2.0,150
+593,Computer Out,Clothing,53.23,339,3.7,2476
+594,Energy Fish,Books,174.01,103,3.2,10
+595,Tough Listen,Sports,324.97,7,4.7,4729
+596,She Shake,Clothing,55.59,951,2.4,1465
+597,Morning Pick,Clothing,55.02,677,4.5,2860
+598,Call Radio,Books,320.02,457,4.7,422
+599,Threat Half,Toys,163.56,928,3.7,2013
+600,Company Discussion,Clothing,102.86,561,4.8,3477
+601,Sign Big,Sports,271.06,478,2.7,3400
+602,Myself Until,Books,351.14,442,4.1,861
+603,Form Sport,Sports,125.16,896,1.2,3422
+604,Front Guy,Home & Kitchen,376.58,219,3.7,2192
+605,Third Total,Home & Kitchen,82.16,496,4.1,4310
+606,He Sense,Electronics,203.06,164,2.1,310
+607,Time Writer,Books,393.66,166,1.5,4637
+608,When Medical,Electronics,155.41,40,1.4,394
+609,Choose Candidate,Sports,213.6,649,3.4,401
+610,Sing Head,Home & Kitchen,177.28,573,2.3,4808
+611,Moment Great,Clothing,439.36,884,4.6,1587
+612,Whole Occur,Home & Kitchen,399.79,106,3.2,106
+613,Happy Military,Clothing,24.18,776,2.3,849
+614,Character Teacher,Toys,170.04,34,4.6,971
+615,This Even,Home & Kitchen,459.71,814,4.1,1458
+616,Occur Wall,Clothing,463.01,205,3.7,2326
+617,Sea Both,Toys,276.45,661,4.2,4353
+618,Foreign College,Home & Kitchen,321.53,219,1.3,3057
+619,Medical South,Clothing,352.75,22,3.2,2879
+620,Focus Thank,Toys,298.2,311,4.1,3411
+621,Image Pick,Sports,492.93,445,2.4,62
+622,Both Page,Home & Kitchen,453.39,483,2.1,1013
+623,Town Evidence,Books,235.72,375,4.7,2714
+624,Purpose Fast,Electronics,351.05,311,2.2,3386
+625,Would Near,Sports,322.12,755,3.9,4088
+626,Finally Drive,Home & Kitchen,107.16,141,1.3,2075
+627,Outside Son,Home & Kitchen,268.58,151,4.2,148
+628,Degree Mother,Toys,307.48,62,1.1,4475
+629,Fund Environmental,Books,295.11,44,2.5,4543
+630,Show Do,Toys,129.17,334,3.8,2576
+631,Current Boy,Electronics,147.4,222,2.5,3762
+632,Choice Radio,Home & Kitchen,322.63,686,1.4,3002
+633,Painting Top,Sports,273.32,98,4.6,3287
+634,Training Politics,Electronics,269.57,49,3.9,2837
+635,Page Official,Home & Kitchen,345.62,550,1.5,862
+636,But Build,Clothing,420.22,275,3.0,1738
+637,Central Ten,Electronics,46.49,487,3.9,4783
+638,Age Truth,Electronics,144.78,633,3.2,4223
+639,Feel Degree,Clothing,294.68,573,4.4,3044
+640,Institution Majority,Sports,292.55,441,3.7,3667
+641,Away Lawyer,Toys,450.73,562,3.7,4046
+642,School Position,Sports,22.11,530,4.2,3285
+643,Tend American,Sports,438.74,989,1.5,35
+644,Seek Activity,Toys,397.33,96,4.4,2365
+645,Thus Evening,Clothing,147.06,320,1.1,4671
+646,Couple Either,Sports,387.95,105,1.5,1733
+647,Public Share,Books,156.96,824,1.2,3869
+648,Part Too,Home & Kitchen,496.08,213,1.3,4478
+649,Officer It,Electronics,276.34,645,2.0,1592
+650,Or Girl,Electronics,272.19,450,1.5,2209
+651,Sing Then,Clothing,466.52,259,2.2,2093
+652,Week Matter,Books,284.39,791,3.8,2799
+653,Life Case,Toys,465.19,23,2.8,175
+654,Past Book,Books,380.27,714,4.5,3122
+655,Radio Foreign,Sports,392.59,439,3.2,460
+656,Write Protect,Electronics,125.79,185,4.6,3789
+657,Opportunity Particular,Books,444.88,16,3.7,857
+658,Draw Kid,Books,442.23,260,1.5,3299
+659,Three Direction,Sports,304.93,887,1.3,4738
+660,Camera Standard,Home & Kitchen,499.42,657,4.1,4207
+661,Fine Wonder,Clothing,473.7,906,4.2,311
+662,Fine Investment,Toys,443.44,406,4.0,4787
+663,Direction Effect,Toys,267.35,76,3.7,2050
+664,Unit Street,Clothing,371.78,823,2.0,1236
+665,We Financial,Toys,462.24,828,1.2,4731
+666,Official News,Toys,198.22,180,1.2,374
+667,Plan Clearly,Home & Kitchen,64.42,419,3.9,3141
+668,Business Put,Sports,431.24,661,3.5,4200
+669,Wish Coach,Toys,193.73,804,1.9,1251
+670,Me Officer,Electronics,463.78,291,3.3,1596
+671,Dream Whatever,Home & Kitchen,416.03,631,2.3,4772
+672,News Pm,Home & Kitchen,105.27,522,1.7,4432
+673,Indicate Dinner,Electronics,224.53,763,4.4,2198
+674,Quickly Very,Toys,93.94,420,4.0,282
+675,Billion Town,Clothing,322.73,771,4.2,1940
+676,Picture Western,Electronics,362.36,213,4.7,1338
+677,Indeed Discussion,Sports,453.91,855,3.1,1625
+678,According Ten,Books,293.55,385,4.2,4476
+679,Fact Particular,Electronics,95.21,437,3.5,4355
+680,Town Individual,Toys,456.31,327,2.1,3899
+681,Line Sell,Toys,109.39,519,1.1,4604
+682,Television Before,Toys,31.34,646,4.1,910
+683,Test Look,Toys,485.36,470,4.0,1494
+684,Teacher Career,Books,207.81,582,4.0,1406
+685,Student Single,Home & Kitchen,190.5,849,2.8,3583
+686,Action Behind,Electronics,212.01,269,4.5,1274
+687,We Cultural,Home & Kitchen,460.18,835,2.9,1037
+688,Admit Draw,Books,455.21,828,3.5,598
+689,Quickly Four,Books,130.86,275,2.6,1490
+690,Program System,Clothing,109.41,770,3.9,803
+691,Cell Western,Clothing,396.96,931,4.4,2984
+692,Lose Investment,Sports,192.41,900,2.0,1592
+693,Those Car,Electronics,476.0,259,4.5,1259
+694,Outside At,Home & Kitchen,360.64,81,1.8,1981
+695,Note Phone,Sports,404.09,828,3.9,4160
+696,Run Strong,Toys,154.47,140,3.9,1920
+697,Everything Take,Sports,20.5,230,4.5,1680
+698,Form Forward,Books,114.09,411,4.2,3419
+699,History Military,Books,55.73,326,2.5,1219
+700,Course Strategy,Home & Kitchen,227.81,442,3.1,1621
+701,Produce International,Home & Kitchen,430.22,298,4.0,4442
+702,Generation Among,Toys,317.32,103,3.4,378
+703,Most Specific,Clothing,121.81,456,4.5,2115
+704,Gun Reason,Clothing,224.9,606,3.5,4014
+705,Wait Cultural,Electronics,131.54,561,2.3,508
+706,Possible Nation,Home & Kitchen,307.43,758,2.6,3333
+707,Thought Positive,Books,430.52,662,2.6,1365
+708,Generation Protect,Toys,60.75,572,4.1,989
+709,Major Wide,Sports,12.3,646,4.1,3945
+710,Least Group,Toys,55.81,336,2.0,1099
+711,Main Story,Home & Kitchen,478.39,441,4.2,824
+712,Happy Leave,Electronics,468.26,291,2.6,4247
+713,Difference Major,Home & Kitchen,363.55,133,2.1,3725
+714,Mind Necessary,Electronics,488.54,628,3.6,3118
+715,Seek Me,Toys,234.71,122,1.3,2425
+716,Town Affect,Home & Kitchen,493.49,498,3.3,1468
+717,Project Build,Electronics,277.48,191,1.6,3935
+718,Create Common,Toys,363.91,184,2.8,673
+719,Still Hit,Clothing,57.36,136,2.9,26
+720,Nice Simply,Sports,160.76,940,3.0,157
+721,Everything Right,Clothing,217.41,340,2.2,3646
+722,Rise Character,Toys,126.07,396,1.4,1661
+723,Modern Necessary,Home & Kitchen,235.47,590,1.2,2641
+724,Throw Face,Books,298.32,689,4.1,3393
+725,North Line,Sports,31.37,307,3.0,730
+726,Protect Coach,Home & Kitchen,428.85,585,1.3,1109
+727,Available Everyone,Electronics,69.83,656,1.3,4265
+728,Evening Different,Home & Kitchen,81.65,982,2.7,1970
+729,Trial Cell,Clothing,162.38,770,2.7,263
+730,Wrong Structure,Toys,87.04,831,1.1,894
+731,Especially Miss,Toys,304.41,835,2.9,1649
+732,Of Wrong,Electronics,130.38,533,2.6,2838
+733,Enjoy Firm,Books,195.4,758,4.6,2430
+734,History College,Books,273.48,541,2.8,3420
+735,Start At,Sports,187.23,835,4.1,4330
+736,Little Share,Home & Kitchen,290.85,992,4.4,2770
+737,Nothing Back,Electronics,85.31,948,4.8,180
+738,Wall Nearly,Books,226.59,752,3.5,4616
+739,Land Far,Sports,297.88,204,2.8,213
+740,Her Real,Books,174.2,372,3.3,1583
+741,Force Production,Clothing,285.49,568,1.3,4990
+742,Stage By,Clothing,324.07,677,1.5,1358
+743,Expert Street,Toys,320.32,424,2.7,2592
+744,History Home,Sports,344.95,54,3.4,4261
+745,Suddenly Simple,Clothing,287.19,506,4.3,1814
+746,Subject Physical,Books,362.8,63,2.4,4448
+747,Region Science,Books,358.67,122,4.9,334
+748,Nor Want,Sports,179.51,735,2.3,4931
+749,Thus Price,Sports,107.32,163,2.2,4670
+750,Subject Statement,Books,482.1,26,1.2,2864
+751,Decision Most,Home & Kitchen,217.95,531,4.6,3946
+752,Risk Mouth,Books,456.24,572,4.0,4184
+753,Lay Type,Sports,199.23,532,2.8,3699
+754,Even Direction,Clothing,476.24,383,1.2,73
+755,Out Current,Electronics,355.01,143,3.4,2720
+756,Everything Much,Toys,216.02,761,1.5,3444
+757,Than Center,Electronics,328.03,730,1.9,3261
+758,Agreement Maintain,Home & Kitchen,450.31,49,4.7,3904
+759,Ten Stop,Books,377.02,790,2.2,12
+760,Window Serious,Books,240.66,464,4.2,432
+761,Any Sing,Clothing,15.45,202,2.9,4666
+762,Social Public,Clothing,8.74,821,4.3,962
+763,Him Not,Electronics,261.27,220,4.9,2581
+764,Policy Myself,Home & Kitchen,168.75,966,3.4,1570
+765,Drop School,Home & Kitchen,226.84,247,2.8,2225
+766,They Include,Toys,255.95,502,1.5,510
+767,Fall Medical,Books,387.81,771,3.7,4331
+768,Various She,Clothing,392.33,475,3.7,2188
+769,Tough Picture,Books,352.26,403,1.4,3825
+770,Often Foreign,Sports,81.51,133,2.0,2178
+771,He Foot,Clothing,84.31,614,2.0,1518
+772,As Late,Home & Kitchen,164.88,87,1.5,4340
+773,Purpose Assume,Toys,380.03,89,4.8,4561
+774,Understand Edge,Sports,317.49,460,1.9,1588
+775,Rather Six,Clothing,464.5,353,1.3,1432
+776,Growth City,Toys,294.38,565,3.6,312
+777,Improve Democratic,Books,165.51,652,2.3,1360
+778,Option Authority,Books,198.17,356,3.6,2076
+779,Section Reality,Clothing,169.22,721,4.1,4186
+780,Fire Fly,Toys,444.76,765,2.8,2076
+781,Reduce Paper,Electronics,65.63,970,3.7,3504
+782,Remember Should,Toys,374.45,834,4.0,2285
+783,Power Audience,Toys,473.56,482,1.7,2265
+784,Indeed Dinner,Books,316.07,800,3.1,4348
+785,Art Admit,Electronics,413.36,282,2.5,1793
+786,Mean Fight,Electronics,141.14,984,4.8,4144
+787,Than Season,Sports,352.31,935,1.5,63
+788,Myself Rest,Electronics,394.42,763,3.6,1443
+789,Travel Suffer,Toys,490.19,676,4.7,3341
+790,Nearly Way,Books,86.24,783,3.9,4731
+791,Thank Life,Books,287.59,745,3.2,3301
+792,Old Consumer,Home & Kitchen,201.72,483,4.0,3624
+793,Commercial Down,Books,387.01,74,3.8,3829
+794,Tough Lot,Books,490.16,798,2.4,2093
+795,Part Improve,Electronics,246.27,2,3.2,1196
+796,Seat Strategy,Clothing,270.04,382,1.3,4805
+797,Important Training,Sports,327.89,783,4.5,230
+798,Test Dinner,Books,241.56,979,3.6,1516
+799,While Everybody,Clothing,56.17,398,4.7,693
+800,Scientist Water,Sports,179.32,404,2.2,2412
+801,Out Traditional,Sports,495.32,895,3.1,1363
+802,Hear Girl,Sports,324.9,52,3.3,395
+803,Perhaps Single,Toys,183.34,218,3.0,2818
+804,Loss Human,Clothing,177.35,78,4.0,4983
+805,Former End,Toys,383.4,552,5.0,4809
+806,Environmental Quickly,Toys,417.55,534,3.9,1231
+807,Wife Base,Home & Kitchen,473.22,799,4.2,3974
+808,Decade Successful,Home & Kitchen,478.13,332,2.8,3014
+809,Her Under,Toys,353.6,54,3.9,657
+810,Finally Movement,Home & Kitchen,446.88,497,4.1,981
+811,Behind White,Toys,24.23,283,3.1,2441
+812,Anything Per,Clothing,196.1,626,3.6,1799
+813,Onto Throw,Books,422.02,624,4.4,3689
+814,Believe Responsibility,Sports,210.88,73,4.5,1330
+815,My Answer,Clothing,215.67,175,1.1,4284
+816,Hand No,Toys,409.92,544,2.7,4945
+817,When Popular,Electronics,408.18,838,3.0,2412
+818,Brother Themselves,Clothing,81.94,681,2.0,999
+819,Generation Of,Books,127.84,431,2.5,2325
+820,Lose Relate,Sports,141.98,406,2.8,1385
+821,Commercial Kitchen,Electronics,385.34,988,1.8,3210
+822,Mission West,Sports,123.61,868,4.8,3266
+823,Risk Factor,Sports,332.8,83,3.2,859
+824,Attention Fill,Home & Kitchen,212.23,140,2.3,114
+825,True Others,Books,112.6,498,3.9,1139
+826,Box Little,Electronics,189.79,682,3.4,1799
+827,Collection Chair,Home & Kitchen,300.11,326,3.3,1618
+828,Customer Shake,Books,10.19,807,1.6,3614
+829,Down Teacher,Books,37.24,703,3.2,3414
+830,Environment Child,Toys,178.48,421,3.7,3072
+831,Wide Prove,Toys,284.13,151,4.7,1557
+832,Quite Discuss,Electronics,485.12,102,2.4,825
+833,Evidence Phone,Clothing,462.49,88,1.6,2089
+834,Image Capital,Home & Kitchen,18.38,245,4.7,2479
+835,His Almost,Home & Kitchen,54.34,963,2.6,1774
+836,Family Program,Home & Kitchen,12.03,474,3.1,4794
+837,Do Level,Toys,426.36,969,2.3,1089
+838,Scene Brother,Home & Kitchen,396.03,660,1.2,4734
+839,Suffer Attack,Home & Kitchen,39.55,850,4.7,538
+840,Despite Break,Clothing,14.12,451,2.0,1984
+841,Price One,Sports,437.84,721,3.7,4353
+842,Start Friend,Sports,127.18,469,3.2,3058
+843,Drive Seat,Toys,388.17,29,4.9,1472
+844,Bed Kind,Clothing,168.39,818,2.4,1252
+845,Top Look,Books,467.87,664,4.7,1275
+846,Thus Painting,Books,169.79,320,4.7,578
+847,Conference Like,Toys,250.76,570,4.1,773
+848,Writer Race,Books,42.12,224,2.0,2722
+849,Usually Participant,Home & Kitchen,339.94,937,2.9,4778
+850,Because Plant,Electronics,31.12,396,4.7,2568
+851,Everybody Democrat,Electronics,377.63,487,4.8,598
+852,To Trouble,Sports,361.67,718,4.6,591
+853,Country House,Clothing,330.38,163,2.9,3805
+854,Wear Believe,Electronics,40.41,957,1.8,771
+855,Little Focus,Clothing,335.98,879,4.1,2812
+856,Half Whose,Books,463.52,653,4.3,3122
+857,Difference Generation,Toys,487.17,315,3.6,1222
+858,Authority Strong,Books,295.99,444,3.8,41
+859,Quickly Local,Toys,470.09,758,2.5,4246
+860,Forward Feel,Sports,390.86,415,4.4,4674
+861,Window Building,Sports,215.0,948,3.1,3711
+862,Discover In,Clothing,364.51,859,4.7,2434
+863,Animal Fall,Home & Kitchen,114.46,28,3.8,2546
+864,Some Significant,Toys,12.65,660,4.7,140
+865,Affect Language,Toys,69.24,42,1.4,341
+866,Recognize Remember,Clothing,284.11,843,3.8,4071
+867,Now Real,Sports,302.52,473,2.1,2678
+868,Commercial Forward,Sports,277.9,262,1.4,2820
+869,Sister Director,Toys,19.69,947,2.8,3828
+870,Show Fight,Books,254.42,380,4.7,4112
+871,Guy Who,Books,50.62,664,1.7,2222
+872,Your Purpose,Toys,291.06,825,4.6,1636
+873,Deep Yeah,Electronics,171.94,623,3.7,3103
+874,Former Security,Sports,243.54,324,1.2,23
+875,Chair Economic,Toys,454.08,999,1.3,2685
+876,Brother Tell,Home & Kitchen,281.85,840,2.1,3373
+877,Guy Base,Sports,211.6,849,3.9,4584
+878,Discuss Yet,Toys,194.74,199,3.7,2552
+879,Stay Where,Toys,205.66,614,4.6,3241
+880,Serve Bit,Electronics,333.44,492,1.8,3126
+881,Purpose Finish,Home & Kitchen,498.39,122,3.3,298
+882,Player Owner,Sports,269.54,422,4.8,1203
+883,Force Product,Clothing,44.12,495,3.1,999
+884,Carry However,Clothing,340.87,767,4.5,2949
+885,Appear Age,Sports,452.64,169,3.4,4558
+886,Blue Step,Home & Kitchen,493.45,722,3.6,1757
+887,Story Find,Electronics,381.19,878,4.2,2844
+888,Yes Little,Toys,321.92,269,4.4,436
+889,Be Tend,Books,204.38,124,1.7,732
+890,Series Side,Home & Kitchen,134.85,387,4.1,1984
+891,Drop Dark,Toys,488.61,241,3.9,2563
+892,Compare Attorney,Home & Kitchen,455.36,679,3.4,1428
+893,Off Gun,Electronics,81.79,714,1.1,1083
+894,Else Card,Books,10.86,163,3.2,866
+895,Kitchen Whole,Clothing,382.55,875,3.4,2344
+896,Yeah Enough,Clothing,346.63,744,2.2,1977
+897,North Data,Electronics,56.58,607,2.9,3103
+898,Congress Might,Toys,17.73,422,1.9,201
+899,Congress Indicate,Sports,302.55,384,1.1,2181
+900,Create Claim,Books,51.81,563,1.8,1183
+901,Age Identify,Electronics,395.93,245,1.7,2995
+902,Management President,Home & Kitchen,190.49,454,4.9,1859
+903,Party Not,Toys,492.07,583,3.9,2914
+904,Whom Sure,Home & Kitchen,310.32,264,1.9,339
+905,Few Run,Home & Kitchen,97.13,230,1.3,920
+906,Yes Relationship,Books,381.38,265,1.3,2041
+907,Hour Test,Clothing,350.16,517,3.2,2216
+908,Represent Stand,Books,125.8,37,3.4,2765
+909,During Spring,Toys,478.48,585,1.8,3067
+910,Environmental Back,Clothing,277.58,18,2.2,694
+911,Door Against,Home & Kitchen,366.65,824,4.0,4487
+912,Give Attention,Books,36.61,905,2.2,2803
+913,Why Open,Home & Kitchen,272.17,483,1.7,2869
+914,Live Property,Sports,462.57,632,1.5,829
+915,Market Field,Home & Kitchen,261.12,839,3.4,2124
+916,Low Quality,Home & Kitchen,44.85,280,4.0,820
+917,Hour Rock,Sports,237.71,206,4.2,2911
+918,Easy Stage,Clothing,448.51,672,2.8,586
+919,Television Difficult,Electronics,338.6,664,3.2,1612
+920,Base Western,Home & Kitchen,37.16,135,2.9,722
+921,Article Senior,Electronics,471.7,829,1.0,3030
+922,Spring Public,Clothing,284.57,55,2.8,1597
+923,Discover Artist,Sports,209.06,22,4.3,861
+924,Audience Career,Toys,75.69,292,2.9,2789
+925,Fact Treat,Toys,416.84,589,4.2,2135
+926,Upon Admit,Clothing,439.1,573,1.8,950
+927,Pass Respond,Home & Kitchen,167.96,231,1.5,575
+928,Yet Stop,Sports,320.47,330,2.7,959
+929,Tell Little,Clothing,165.12,339,2.4,1394
+930,Site Bed,Electronics,21.57,926,1.2,2446
+931,Pattern Rest,Sports,367.15,615,1.3,3593
+932,Early Forward,Toys,159.68,106,3.7,4435
+933,Above Reveal,Clothing,314.67,599,3.7,597
+934,Pattern Summer,Sports,402.15,986,3.6,2854
+935,Collection Goal,Clothing,377.49,340,1.2,4874
+936,Street These,Toys,453.23,435,3.6,4725
+937,Represent American,Clothing,299.21,651,4.6,4660
+938,From Grow,Books,34.62,891,1.9,4236
+939,Nation Power,Clothing,46.11,990,1.2,3115
+940,Far Watch,Electronics,262.11,487,5.0,4323
+941,Toward Available,Clothing,34.25,849,4.8,172
+942,Why Sometimes,Toys,496.51,689,2.9,4368
+943,Leave Evidence,Toys,52.99,200,4.7,1479
+944,Character Paper,Toys,102.86,315,3.4,4484
+945,Perhaps Life,Sports,375.96,427,2.0,694
+946,Research Both,Toys,270.81,122,3.4,132
+947,Step His,Home & Kitchen,381.15,630,4.9,4476
+948,Include Center,Home & Kitchen,139.7,479,3.7,3844
+949,Paper Power,Sports,428.76,300,1.8,1209
+950,Why Read,Electronics,196.66,669,2.8,151
+951,To Open,Books,193.19,537,2.9,3826
+952,Value Hot,Electronics,175.78,646,3.3,2643
+953,Rise Player,Electronics,16.05,456,4.4,2110
+954,Account Step,Clothing,156.46,547,3.2,3322
+955,Deal To,Clothing,440.0,598,1.1,356
+956,Former Remain,Sports,150.98,692,4.1,2355
+957,Debate Relate,Electronics,416.23,470,2.0,3004
+958,Resource Wish,Electronics,211.59,457,4.9,4347
+959,Worker Same,Toys,184.43,285,1.0,3573
+960,Turn Manager,Home & Kitchen,39.5,854,4.8,1818
+961,Reality Because,Sports,255.84,56,2.9,804
+962,Treat City,Books,242.1,632,3.4,3244
+963,Moment Bill,Toys,253.6,726,3.6,4629
+964,Short His,Toys,257.37,358,3.7,4158
+965,Expert Gas,Books,413.1,604,2.6,461
+966,History Sound,Sports,176.32,298,1.6,3737
+967,Born Many,Clothing,130.79,776,4.3,4651
+968,Real Writer,Clothing,179.76,237,3.6,4394
+969,Middle Clear,Clothing,459.55,185,1.8,3838
+970,Near Eye,Clothing,265.33,306,4.7,3663
+971,Allow Establish,Clothing,450.09,741,2.1,4171
+972,Point Standard,Books,55.8,197,1.6,3535
+973,Sign After,Clothing,359.71,299,4.3,4134
+974,Position Season,Home & Kitchen,437.07,263,4.1,3349
+975,Seem Action,Clothing,413.43,305,2.4,1960
+976,Building Democrat,Home & Kitchen,230.55,47,4.1,1860
+977,Police Red,Books,55.64,154,3.5,4938
+978,Nice Mind,Sports,12.68,528,2.8,1275
+979,Newspaper Child,Clothing,190.18,96,2.2,2241
+980,Bed Develop,Sports,333.71,227,1.7,984
+981,My Raise,Toys,15.38,723,3.0,3016
+982,Education Main,Books,469.45,266,2.4,4433
+983,Stage Player,Toys,394.13,219,1.0,4545
+984,Great Hear,Books,113.84,644,3.0,4956
+985,Their Bag,Electronics,345.95,335,2.6,1450
+986,Lay Itself,Books,345.74,738,1.3,4369
+987,Example Name,Clothing,376.77,481,3.3,4651
+988,Site Last,Electronics,425.18,741,3.0,117
+989,Add Issue,Books,290.03,169,4.1,4654
+990,Light Suddenly,Home & Kitchen,293.22,246,4.2,140
+991,Off Station,Toys,214.21,689,2.5,563
+992,West Save,Toys,48.95,439,1.0,4493
+993,Which Until,Clothing,225.21,859,1.1,2647
+994,Relationship Manage,Toys,20.25,711,2.0,1967
+995,Common Organization,Toys,461.18,263,4.3,1603
+996,Position Lot,Home & Kitchen,60.34,61,2.0,4627
+997,Easy Tv,Electronics,67.29,371,1.6,586
+998,Explain Notice,Clothing,370.96,907,4.0,1535
+999,Play Offer,Clothing,371.81,182,3.0,1654
+1000,Couple Yet,Clothing,23.09,562,1.4,3215
